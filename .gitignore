@@ -1,0 +1,39 @@
+.vscode
+**/*.X/~*.*
+**/*.X/build/
+**/*.X/debug/
+**/*.X/dist/
+**/*.X/disassembly/
+**/*.X/.generated_files/
+**/*.X/nbproject/private/
+**/*.X/nbproject/*.mk
+**/*.X/nbproject/*.bash
+**/*.X/nbproject/Makefile-genesis.properties
+**/*.X/queuelogs/
+
+# MCC specific
+**/*.X/*mc3.bak*
+
+# Large Files
+*.exe
+*.zip
+*.pdf
+~*.*
+**build/
+**debug/
+**dist/
+**disassembly/
+**.generated_files/
+**nbproject/private/
+**nbproject/*.mk
+**nbproject/*.bash
+**nbproject/Makefile-genesis.properties
+**nbproject/queuelogs/
+
+# MCC specific
+*mc3.bak*
+
+# Large Files
+*.exe
+*.zip
+*.pdf
